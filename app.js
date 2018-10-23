@@ -73,7 +73,8 @@ function create(env, ctx) {
         "/bgclock.html":"bgclock.html",
         "/report":"reportindex.html",
         "/translations":"translationsindex.html",
-        "/clock.html":"clock.html"
+        "/clock.html":"clock.html",
+        "/clock-emoji.html":"clock-emoji.html"	    
     };
 
 	Object.keys(appPages).forEach(function(page) {
